@@ -28,5 +28,5 @@ The dataset used for training and evaluation can be found as flipkart.csv. It in
 
 Details about the model architecture, hyperparameters, and training process can be found in the Jupyter Notebook.
 
-## Authors and acknowledgment
-@iamsonuram
+# Authors and acknowledgment
+Sonika Ramesh - (https://github.com/iamsonuram)
